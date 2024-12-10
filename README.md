@@ -1,3 +1,7 @@
 README.md
-2022	pajh
+
+
+
+2022 	pajh
+
 kookmin univ. SW
